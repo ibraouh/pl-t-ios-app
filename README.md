@@ -15,7 +15,6 @@ Meal planning can be a tedious and time-consuming task. Juggling recipe discover
 
 Whether you're preparing for a busy work week or curating a meal plan for your family, **Plât** makes meal organization seamless and enjoyable.
 
----
 
 ## 👥 Target Audience
 
@@ -24,7 +23,6 @@ Whether you're preparing for a busy work week or curating a meal plan for your f
 - **Busy professionals** who want an easy way to plan meals ahead of time.
 - **Health-conscious individuals** managing diet plans and nutritional goals.
 
----
 
 ## 🚀 Features
 
@@ -45,7 +43,6 @@ Whether you're preparing for a busy work week or curating a meal plan for your f
 ### 4. **Cross-Platform Functionality**
 - Syncs data via **Firebase** so you can access your meal plans across devices.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -58,7 +55,6 @@ Whether you're preparing for a busy work week or curating a meal plan for your f
 ### APIs
 - **TheMealDB API**: Fetch recipes, thumbnails, categories, and video tutorials.
 
----
 
 ## 🖼️ Screenshots
 
@@ -72,17 +68,6 @@ Whether you're preparing for a busy work week or curating a meal plan for your f
 ![Date Picker](https://via.placeholder.com/600x400?text=Date+Picker)  
 *Schedule or update recipes with ease.*
 
----
-
-## 🏗️ Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/plat.git
-   cd plat
-   ```
-
----
 
 ## 🛠️ Features in Development
 
@@ -96,19 +81,15 @@ Whether you're preparing for a busy work week or curating a meal plan for your f
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
----
-
 ## ❤️ Acknowledgments
 
-Special thanks to:
+Special thanks to: <br>
 **TheMealDB** for providing a robust recipe API. <br>
-The open-source community for inspiration and tools. <br>
-
----
+The open-source community for inspiration and tools.
 
 ## 🔗 Contact
 
-Feel free to reach out if you have any questions or feedback!
-Developer: Abe Raouh
-Email: abe@example.com
+Feel free to reach out if you have any questions or feedback! <br>
+Developer: Abe Raouh <br>
+Email: abe@example.com <br>
 GitHub: ibraouh
