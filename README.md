@@ -58,16 +58,16 @@ Whether you're preparing for a busy work week or curating a meal plan for your f
 
 ## 🖼️ Demo
 
-![Home Screen](https://via.placeholder.com/600x400?text=Home+Screen)  
+![Home Screen](https://i.postimg.cc/50trjkBX/temp-Imagelje4-J9.avif)  
 *Discover recipes and plan meals.*
 
-![Planned Recipes](https://via.placeholder.com/600x400?text=Planned+Recipes)  
+![Planned Recipes](https://i.postimg.cc/4yD2Lfrc/temp-Image-Ya-S76o.avif)  
 *Organize your week with scheduled meals.*
 
-![Search Recipes](https://via.placeholder.com/600x400?text=Date+Picker)  
+![Search Recipes](https://i.postimg.cc/rs0YN0Yc/temp-Image4-SGj-N9.avif)  
 *Search for recipes with ease or suggest new ones.*
 
-![Settings](https://via.placeholder.com/600x400?text=Date+Picker)  
+![Settings](https://i.postimg.cc/Sstv97dD/temp-Imagebl-JFk-Z.avif)  
 *Browse saved and planned recipes added to your account.*
 
 
