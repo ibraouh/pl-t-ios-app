@@ -96,15 +96,15 @@ Whether you're preparing for a busy work week or curating a meal plan for your f
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
---
+---
 
 ## ❤️ Acknowledgments
 
 Special thanks to:
-**TheMealDB** for providing a robust recipe API.
-The open-source community for inspiration and tools.
+**TheMealDB** for providing a robust recipe API. <br>
+The open-source community for inspiration and tools. <br>
 
---
+---
 
 ## 🔗 Contact
 
