@@ -56,17 +56,19 @@ Whether you're preparing for a busy work week or curating a meal plan for your f
 - **TheMealDB API**: Fetch recipes, thumbnails, categories, and video tutorials.
 
 
-## 🖼️ Screenshots
+## 🖼️ Demo
 
-### Main Features
 ![Home Screen](https://via.placeholder.com/600x400?text=Home+Screen)  
 *Discover recipes and plan meals.*
 
 ![Planned Recipes](https://via.placeholder.com/600x400?text=Planned+Recipes)  
 *Organize your week with scheduled meals.*
 
-![Date Picker](https://via.placeholder.com/600x400?text=Date+Picker)  
-*Schedule or update recipes with ease.*
+![Search Recipes](https://via.placeholder.com/600x400?text=Date+Picker)  
+*Search for recipes with ease or suggest new ones.*
+
+![Settings](https://via.placeholder.com/600x400?text=Date+Picker)  
+*Browse saved and planned recipes added to your account.*
 
 
 ## 🛠️ Features in Development
